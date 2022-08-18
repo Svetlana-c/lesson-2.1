@@ -1,0 +1,15 @@
+/Users/svetlana/Desktop/dz2/dz2.13/obj/Debug/net6.0/dz2.13.csproj.AssemblyReference.cache
+/Users/svetlana/Desktop/dz2/dz2.13/obj/Debug/net6.0/dz2.13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlana/Desktop/dz2/dz2.13/obj/Debug/net6.0/dz2.13.AssemblyInfoInputs.cache
+/Users/svetlana/Desktop/dz2/dz2.13/obj/Debug/net6.0/dz2.13.AssemblyInfo.cs
+/Users/svetlana/Desktop/dz2/dz2.13/obj/Debug/net6.0/dz2.13.csproj.CoreCompileInputs.cache
+/Users/svetlana/Desktop/dz2/dz2.13/bin/Debug/net6.0/dz2.13
+/Users/svetlana/Desktop/dz2/dz2.13/bin/Debug/net6.0/dz2.13.deps.json
+/Users/svetlana/Desktop/dz2/dz2.13/bin/Debug/net6.0/dz2.13.runtimeconfig.json
+/Users/svetlana/Desktop/dz2/dz2.13/bin/Debug/net6.0/dz2.13.dll
+/Users/svetlana/Desktop/dz2/dz2.13/bin/Debug/net6.0/dz2.13.pdb
+/Users/svetlana/Desktop/dz2/dz2.13/obj/Debug/net6.0/dz2.13.dll
+/Users/svetlana/Desktop/dz2/dz2.13/obj/Debug/net6.0/refint/dz2.13.dll
+/Users/svetlana/Desktop/dz2/dz2.13/obj/Debug/net6.0/dz2.13.pdb
+/Users/svetlana/Desktop/dz2/dz2.13/obj/Debug/net6.0/dz2.13.genruntimeconfig.cache
+/Users/svetlana/Desktop/dz2/dz2.13/obj/Debug/net6.0/ref/dz2.13.dll
